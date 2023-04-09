@@ -2,6 +2,9 @@
 
 *This is my personal page for CSE110 at UCSD*
 
+I am a fourth year computer science undergraduate at UCSD, I have experience in multiple programming languages, ML/DL and data visualization tools. Outside school courses, I like to learn the mathematical principles and theoretical foundations behind computer science, and apply them in real world applications. I am also a research assistant at UCSD System Energy Efficiency lab (SEElab) advised by Prof. Tajana Šimunić Rosing and Xiaofan Yu, my current research topics include Hyperdimensional Computing and Federated Learning under constrained and challenging scenarios.
+
+
 Here is a quote that I like about computer science:
 > Computer science is no more about computers than astronomy is about telescopes.
 
@@ -64,9 +67,6 @@ Upcoming tasks:
 - [x] CSE110 lab 1
 - [ ] Graduate
 - [ ] More
-
-
-
 
 
 
